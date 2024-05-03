@@ -1,1 +1,1 @@
-This repository consists of 
+This repository is for a systems analysis and design project I did in conjunction with Tyler Coenen and Paul Morgan. Inside are two versions of the docx of the final report as well as the powerpoint presentation we used to present our findings.
